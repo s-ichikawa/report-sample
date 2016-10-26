@@ -1,0 +1,19 @@
+{
+    "name": "s-ichikawa/report-sample",
+    "require": {
+        "aws/aws-sdk-php": "^3.19",
+        "monolog/monolog": "^1.21",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ReportSample\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "s-ichikawa",
+            "email": "ichikawa.shingo.0829@gmail.com"
+        }
+    ]
+}
